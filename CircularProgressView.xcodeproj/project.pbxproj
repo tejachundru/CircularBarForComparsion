@@ -12,6 +12,7 @@
 		1B4FD9582065316A00451DF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B4FD9562065316A00451DF3 /* Main.storyboard */; };
 		1B4FD95A2065316A00451DF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B4FD9592065316A00451DF3 /* Assets.xcassets */; };
 		1B4FD95D2065316A00451DF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B4FD95B2065316A00451DF3 /* LaunchScreen.storyboard */; };
+		1B4FD965206531BE00451DF3 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4FD964206531BE00451DF3 /* CircularProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1B4FD9592065316A00451DF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B4FD95C2065316A00451DF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B4FD95E2065316A00451DF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B4FD964206531BE00451DF3 /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1B4FD9522065316A00451DF3 /* AppDelegate.swift */,
 				1B4FD9542065316A00451DF3 /* ViewController.swift */,
 				1B4FD9562065316A00451DF3 /* Main.storyboard */,
+				1B4FD964206531BE00451DF3 /* CircularProgressView.swift */,
 				1B4FD9592065316A00451DF3 /* Assets.xcassets */,
 				1B4FD95B2065316A00451DF3 /* LaunchScreen.storyboard */,
 				1B4FD95E2065316A00451DF3 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B4FD9552065316A00451DF3 /* ViewController.swift in Sources */,
+				1B4FD965206531BE00451DF3 /* CircularProgressView.swift in Sources */,
 				1B4FD9532065316A00451DF3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
